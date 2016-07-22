@@ -1,0 +1,48 @@
+body, div, fieldset, input, img, a, a:hover, select, li, ul, p, h1, h2, h3, h4, h5, h6 {
+
+	margin: 0;
+	padding: 0;
+	border: 0;
+	text-decoration: none;
+	outline: 0;
+	list-style: none;
+	vertical-align: bottom;
+	white-space: normal;
+}
+
+/* Background */
+
+body {
+	background-image: url(../../img/space.jpg);
+}
+
+#mars {
+	margin-left: 0px;
+	height: 1850px;
+	width: auto;
+}
+
+
+.global {
+	width:2400px; |important; position: relative; z-index: 1; margin:auto; }
+}
+
+#sun {
+	width: 3500px;
+	height: 3500px;
+}
+
+#mercury {
+	margin-left:1100px;
+	margin-top: 750px;
+}
+
+#venus {
+	margin-left: 1070px;
+	margin-top: 860px;
+}
+
+#terre{
+	margin-left: 900px;
+	margin-top: 950px;
+}
